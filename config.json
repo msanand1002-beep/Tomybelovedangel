@@ -25,18 +25,18 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "mainBearGif": "/cute-bear.gif",
+    "musicBearGif": "/music-bear.gif",
+    "comfortBearGif": "/comfort-bear.gif",
+    "kissBearGif": "/kiss-bears.gif",
+    "photoBearGif": "/photo-bear.gif",
+    "loveYouBearGif": "/love-you-bear.gif",
+    "childGif": "/child.gif",
+    "roseBearGif": "/rose-bear.gif",
+    "cookBearGif": "/cook-bear.gif",
+    "kissSingleBearGif": "/kiss-bear.gif",
+    "leftButton": "/left-button.png",
+    "rightButton": "/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
@@ -72,27 +72,27 @@
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "/comfort-bear.gif", 
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "/cute-bear.gif",
       "text": "I will make you laugh,even in a bad mood"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "/src/assets/photo-bear.gif",
+      "gif": "/photo-bear.gif",
       "text": "Your Personal Assistant for lifetime without compliant"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "/music-bear.gif",
       "text": "Live standup comedies for your entire life🎶😉"
     }
   ],
@@ -165,4 +165,5 @@
     "play": "Play",
     "pause": "Pause"
   }
+
 }
