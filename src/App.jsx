@@ -177,8 +177,8 @@ function App() {
 
           <div className="image-card">
             <img
-              src={config.media.loveYouBearGif}
-              alt="cute gif"
+              src="/love-you-bear.gif" 
+              alt="Love Bear"
               loading="lazy"
             />
           </div>
@@ -781,3 +781,4 @@ function App() {
 }
 
 export default App;
+
